@@ -1,0 +1,7 @@
+DECLARE nilai : INTEGER
+
+IF nilai >= 75 THEN
+    OUTPUT "Lulus"
+ELSE
+    OUTPUT "Tidak Lulus"
+ENDIF
