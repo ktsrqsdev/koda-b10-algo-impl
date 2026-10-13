@@ -25,7 +25,7 @@ Seorang guru ingin menentukan lulus atau tidaknya mahasiswa dengan syarat jika n
     start --> inputNilai
     inputNilai --> if
     if --tidak--> outputTidakLulus
-    if --yes--> outputLulus
+    if --ya--> outputLulus
     outputLulus & outputTidakLulus --> stop
 ```
 
