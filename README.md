@@ -1,5 +1,10 @@
 # Tugas Algoritma Bebas
 ## Algoritma Menentukan Lulus atau Tidak Lulus Siswa
+Seorang guru ingin menentukan lulus atau tidaknya mahasiswa dengan syarat jika nilai siswa yang ia didik diatas atau sama dengan 75 makan siswa yang dinilai akan dinyatakan lulus jika nilai siswa dibawah 75 akan dinyatakan tidak lulus.
+
+### Analisis
+- Variable: nilai
+  
 ### Algoritma Deskriptif
 1. Mulai
 2. Tentukan nilai siswa
