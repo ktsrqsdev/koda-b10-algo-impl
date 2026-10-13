@@ -8,8 +8,8 @@ Seorang guru ingin menentukan lulus atau tidaknya mahasiswa dengan syarat jika n
 ### Algoritma Deskriptif
 1. Mulai
 2. Tentukan nilai siswa
-3. Apabila siswa memiliki nilai diatas atau sama dengan 75 maka siswa tersebut dinyatakan LULUS
-4. Apabila siswa memiliki nilai dibawah 75 maka siswa tersebut dinyatakan TIDAK LULUS
+3. Jika siswa memiliki nilai diatas atau sama dengan 75 maka siswa tersebut dinyatakan LULUS
+4. Jika tidak siswa tersebut dinyatakan TIDAK LULUS
 5. Selesai
 
 ### Algoritma Flowchart
