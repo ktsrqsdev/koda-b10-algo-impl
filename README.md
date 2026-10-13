@@ -32,7 +32,7 @@ Seorang guru ingin menentukan lulus atau tidaknya mahasiswa dengan syarat jika n
 ### Pseudo-code
 ```
 DECLARE nilai : INTEGER
-
+INPUT nilai
 IF nilai >= 75 THEN
     OUTPUT "Lulus"
 ELSE
