@@ -11,7 +11,7 @@ membuat algoritma untuk konversi suku, tapi inputnya hanya 1 yaitu dari Celsius 
  7. selesai
     
 ### Algoritma Flowchart
-```mermaid
+``` mermaid
 flowchart TD
     flowchart TD
     A@{ shape: circle, label: "Start" }
