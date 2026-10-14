@@ -13,7 +13,6 @@ membuat algoritma untuk konversi suku, tapi inputnya hanya 1 yaitu dari Celsius 
 ### Algoritma Flowchart
 ``` mermaid
 flowchart TD
-    flowchart TD
     A@{ shape: circle, label: "Start" }
     B@{ shape: lean-r, label: "C" }
     C@{ shape: rect, label: "K = C + 273.15" }
